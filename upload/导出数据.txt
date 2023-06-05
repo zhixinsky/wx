@@ -1,0 +1,250 @@
+2023/05/04 10:46:18 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:18 wechat version:3.7.6.44
+2023/05/04 10:46:18 version "3.7.6.44" not support
+2023/05/04 10:46:19 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:19 username:L2481604415
+2023/05/04 10:46:19 tel:18866993355
+2023/05/04 10:46:19 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:19 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:19 wechat version:3.7.6.44
+2023/05/04 10:46:19 version "3.7.6.44" not support
+2023/05/04 10:46:19 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:19 username:L2481604415
+2023/05/04 10:46:19 tel:18866993355
+2023/05/04 10:46:19 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:20 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:20 wechat version:3.7.6.44
+2023/05/04 10:46:20 version "3.7.6.44" not support
+2023/05/04 10:46:20 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:20 username:L2481604415
+2023/05/04 10:46:20 tel:18866993355
+2023/05/04 10:46:20 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:21 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:21 wechat version:3.7.6.44
+2023/05/04 10:46:21 version "3.7.6.44" not support
+2023/05/04 10:46:21 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:21 username:L2481604415
+2023/05/04 10:46:21 tel:18866993355
+2023/05/04 10:46:21 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:22 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:22 wechat version:3.7.6.44
+2023/05/04 10:46:22 version "3.7.6.44" not support
+2023/05/04 10:46:23 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:23 username:L2481604415
+2023/05/04 10:46:23 tel:18866993355
+2023/05/04 10:46:23 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:23 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:23 wechat version:3.7.6.44
+2023/05/04 10:46:23 version "3.7.6.44" not support
+2023/05/04 10:46:23 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:23 username:L2481604415
+2023/05/04 10:46:23 tel:18866993355
+2023/05/04 10:46:23 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:24 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:24 wechat version:3.7.6.44
+2023/05/04 10:46:24 version "3.7.6.44" not support
+2023/05/04 10:46:24 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:24 username:L2481604415
+2023/05/04 10:46:24 tel:18866993355
+2023/05/04 10:46:24 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:25 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:25 wechat version:3.7.6.44
+2023/05/04 10:46:25 version "3.7.6.44" not support
+2023/05/04 10:46:25 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:25 username:L2481604415
+2023/05/04 10:46:25 tel:18866993355
+2023/05/04 10:46:25 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:26 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:26 wechat version:3.7.6.44
+2023/05/04 10:46:26 version "3.7.6.44" not support
+2023/05/04 10:46:26 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:26 username:L2481604415
+2023/05/04 10:46:26 tel:18866993355
+2023/05/04 10:46:26 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:27 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:27 wechat version:3.7.6.44
+2023/05/04 10:46:27 version "3.7.6.44" not support
+2023/05/04 10:46:27 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:27 username:L2481604415
+2023/05/04 10:46:27 tel:18866993355
+2023/05/04 10:46:27 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:28 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:28 wechat version:3.7.6.44
+2023/05/04 10:46:28 version "3.7.6.44" not support
+2023/05/04 10:46:29 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:29 username:L2481604415
+2023/05/04 10:46:29 tel:18866993355
+2023/05/04 10:46:29 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:29 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:29 wechat version:3.7.6.44
+2023/05/04 10:46:29 version "3.7.6.44" not support
+2023/05/04 10:46:29 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:29 username:L2481604415
+2023/05/04 10:46:29 tel:18866993355
+2023/05/04 10:46:29 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:30 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:30 wechat version:3.7.6.44
+2023/05/04 10:46:30 version "3.7.6.44" not support
+2023/05/04 10:46:30 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:30 username:L2481604415
+2023/05/04 10:46:30 tel:18866993355
+2023/05/04 10:46:30 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:31 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:31 wechat version:3.7.6.44
+2023/05/04 10:46:31 version "3.7.6.44" not support
+2023/05/04 10:46:31 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:31 username:L2481604415
+2023/05/04 10:46:31 tel:18866993355
+2023/05/04 10:46:31 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:32 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:32 wechat version:3.7.6.44
+2023/05/04 10:46:32 version "3.7.6.44" not support
+2023/05/04 10:46:32 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:32 username:L2481604415
+2023/05/04 10:46:32 tel:18866993355
+2023/05/04 10:46:32 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:33 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:33 wechat version:3.7.6.44
+2023/05/04 10:46:33 version "3.7.6.44" not support
+2023/05/04 10:46:33 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:33 username:L2481604415
+2023/05/04 10:46:33 tel:18866993355
+2023/05/04 10:46:33 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:34 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:34 wechat version:3.7.6.44
+2023/05/04 10:46:34 version "3.7.6.44" not support
+2023/05/04 10:46:34 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:34 username:L2481604415
+2023/05/04 10:46:34 tel:18866993355
+2023/05/04 10:46:34 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:35 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:35 wechat version:3.7.6.44
+2023/05/04 10:46:35 version "3.7.6.44" not support
+2023/05/04 10:46:35 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:35 username:L2481604415
+2023/05/04 10:46:35 tel:18866993355
+2023/05/04 10:46:35 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:36 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:36 wechat version:3.7.6.44
+2023/05/04 10:46:36 version "3.7.6.44" not support
+2023/05/04 10:46:36 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:36 username:L2481604415
+2023/05/04 10:46:36 tel:18866993355
+2023/05/04 10:46:36 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:37 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:37 wechat version:3.7.6.44
+2023/05/04 10:46:37 version "3.7.6.44" not support
+2023/05/04 10:46:37 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:37 username:L2481604415
+2023/05/04 10:46:37 tel:18866993355
+2023/05/04 10:46:37 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:38 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:38 wechat version:3.7.6.44
+2023/05/04 10:46:38 version "3.7.6.44" not support
+2023/05/04 10:46:38 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:38 username:L2481604415
+2023/05/04 10:46:38 tel:18866993355
+2023/05/04 10:46:38 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:39 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:39 wechat version:3.7.6.44
+2023/05/04 10:46:39 version "3.7.6.44" not support
+2023/05/04 10:46:39 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:39 username:L2481604415
+2023/05/04 10:46:39 tel:18866993355
+2023/05/04 10:46:39 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:40 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:40 wechat version:3.7.6.44
+2023/05/04 10:46:40 version "3.7.6.44" not support
+2023/05/04 10:46:40 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:40 username:L2481604415
+2023/05/04 10:46:40 tel:18866993355
+2023/05/04 10:46:40 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:41 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:41 wechat version:3.7.6.44
+2023/05/04 10:46:41 version "3.7.6.44" not support
+2023/05/04 10:46:41 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:41 username:L2481604415
+2023/05/04 10:46:41 tel:18866993355
+2023/05/04 10:46:41 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:42 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:42 wechat version:3.7.6.44
+2023/05/04 10:46:42 version "3.7.6.44" not support
+2023/05/04 10:46:42 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:42 username:L2481604415
+2023/05/04 10:46:42 tel:18866993355
+2023/05/04 10:46:42 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:43 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:43 wechat version:3.7.6.44
+2023/05/04 10:46:43 version "3.7.6.44" not support
+2023/05/04 10:46:43 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:43 username:L2481604415
+2023/05/04 10:46:43 tel:18866993355
+2023/05/04 10:46:43 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:44 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:44 wechat version:3.7.6.44
+2023/05/04 10:46:44 version "3.7.6.44" not support
+2023/05/04 10:46:44 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:44 username:L2481604415
+2023/05/04 10:46:44 tel:18866993355
+2023/05/04 10:46:44 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:45 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:45 wechat version:3.7.6.44
+2023/05/04 10:46:45 version "3.7.6.44" not support
+2023/05/04 10:46:45 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:45 username:L2481604415
+2023/05/04 10:46:45 tel:18866993355
+2023/05/04 10:46:45 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:46 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:46 wechat version:3.7.6.44
+2023/05/04 10:46:46 version "3.7.6.44" not support
+2023/05/04 10:46:46 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:46 username:L2481604415
+2023/05/04 10:46:46 tel:18866993355
+2023/05/04 10:46:46 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:47 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:47 wechat version:3.7.6.44
+2023/05/04 10:46:47 version "3.7.6.44" not support
+2023/05/04 10:46:47 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:47 username:L2481604415
+2023/05/04 10:46:47 tel:18866993355
+2023/05/04 10:46:47 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:48 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:48 wechat version:3.7.6.44
+2023/05/04 10:46:48 version "3.7.6.44" not support
+2023/05/04 10:46:49 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:49 username:L2481604415
+2023/05/04 10:46:49 tel:18866993355
+2023/05/04 10:46:49 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:49 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:49 wechat version:3.7.6.44
+2023/05/04 10:46:49 version "3.7.6.44" not support
+2023/05/04 10:46:50 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:50 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:50 wechat version:3.7.6.44
+2023/05/04 10:46:50 version "3.7.6.44" not support
+2023/05/04 10:46:50 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:50 username:L2481604415
+2023/05/04 10:46:50 tel:18866993355
+2023/05/04 10:46:50 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:51 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:51 wechat version:3.7.6.44
+2023/05/04 10:46:51 version "3.7.6.44" not support
+2023/05/04 10:46:51 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:51 username:L2481604415
+2023/05/04 10:46:51 tel:18866993355
+2023/05/04 10:46:51 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:52 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:52 wechat version:3.7.6.44
+2023/05/04 10:46:52 version "3.7.6.44" not support
+2023/05/04 10:46:52 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:52 username:L2481604415
+2023/05/04 10:46:52 tel:18866993355
+2023/05/04 10:46:52 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+2023/05/04 10:46:53 dll path:C:\Program Files (x86)\Tencent\WeChat\WeChatWin.dll
+2023/05/04 10:46:53 wechat version:3.7.6.44
+2023/05/04 10:46:53 version "3.7.6.44" not support
+2023/05/04 10:46:53 wxid:wxid_ngc45vvp0wbf21
+2023/05/04 10:46:53 username:L2481604415
+2023/05/04 10:46:53 tel:18866993355
+2023/05/04 10:46:53 sqlite key:6a9900d5f28f4ddd985dbb95c3f3220d9ae1b4115aa24b9bb792af0c577cfd69
+
